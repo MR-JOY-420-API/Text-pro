@@ -1,0 +1,16 @@
+{
+  "name": "joy-textpro",
+  "version": "1.0.0",
+  "description": "Joy server style TextPro.me API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["textpro", "joy", "text", "image", "generator"],
+  "author": "Md Jubaet Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "textpro.js": "^1.0.7"
+  }
+}
